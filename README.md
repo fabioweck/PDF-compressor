@@ -12,3 +12,10 @@ There is a 'statistics page' displayed to the user as well, after the compressio
 In the very first beginning of the code, you can notice a function called 'make_dpi_aware'. It improves the window resolution and reduces the window/letters blur.
 
 I hope you enjoy my program!
+
+![pdfcompressor1](https://github.com/fabioweck/PDF-compressor/assets/115494238/4ffdeb89-e200-43e8-b402-0cf3f48cec6e)
+"Message displayed after compressing a file"
+
+
+![pdfcompressor2](https://github.com/fabioweck/PDF-compressor/assets/115494238/2b653ec1-9249-4f13-9be9-4df4f598a2d3)
+"Comparison between original and compressed file"
